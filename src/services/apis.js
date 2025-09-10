@@ -1,6 +1,6 @@
 
 
-const BASE_URL = "https://edtech-backend-mu.vercel.app/v1";
+const BASE_URL = "https://edtech-backend-mu.vercel.app/";
 
 
 // AUTH ENDPOINTS
